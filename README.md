@@ -34,3 +34,11 @@
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## My Social Media
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+## Github Stats
+[![](https://github-readme-stats.vercel.app/api?username=Montoyax28&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Montoyax28)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Montoyax28&theme=material-palenight)](https://github.com/Montoyax28)
